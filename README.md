@@ -1,36 +1,33 @@
-# destinations-india-
-Domestic travel destinations and tour planning resources across Incredible India.
-# 🇮🇳 Destinations in India & Bhutan
+# Destinations in India | People Holidays – Travel Agency in Mumbai
 
-This repository represents People Holidays’ expertise in domestic travel across India and Bhutan for Indian travelers and NRIs.
+People Holidays is a trusted travel agency and tour operator based in
+Mulund (West), Mumbai – 400080, Maharashtra, India.
 
-We curate well-planned travel experiences covering popular destinations, cultural circuits, nature retreats, spiritual journeys, and leisure holidays across Incredible India and Bhutan.
+We provide customised domestic tour packages across India for families,
+couples, honeymoon travellers, senior citizens, and NRIs.
 
----
+🌐 Website: https://www.peopleholidays.in/
+📞 Phone: +91 93244 55999
+📍 Address: 14, Kapeesh Mall, 1st Floor, M G Road, Mulund (West), Mumbai – 400080
 
-## 🌏 What This Covers
+## India Tour Packages by People Holidays
 
-- Popular tourist destinations in India and Bhutan  
-- Hill stations, beaches, deserts, heritage cities, and Himalayan regions  
-- Family holidays, couple getaways, and solo travel experiences  
-- Short domestic getaways and extended travel plans  
+- Goa family tour packages
+- Andaman honeymoon packages
+- Kerala tour packages
+- Kashmir holiday packages
+- Rajasthan heritage tours
+- Himachal & Uttarakhand hill stations
+- Spiritual & temple tours in India
+- Short domestic getaways from Mumbai
 
----
+## Why Choose People Holidays
 
-## 🎯 Who This Is For
+- Mumbai-based travel company
+- Customised itineraries (no fixed group tours)
+- Clear planning & transparent communication
+- Family-friendly and senior-friendly travel
+- Personal support before and during travel
 
-- Indian travelers (India & overseas)
-- NRI travelers
-- Families and couples
-- Solo travelers
-- Group tours and corporate travel
-
----
-
-## 🧭 Travel Philosophy
-
-At People Holidays, India and Bhutan travel is designed with comfort, cultural depth, and customization—ensuring every journey is smooth, meaningful, and memorable.
-
----
-
-🔗 Learn more at: https://www.peopleholidays.in/
+People Holidays specialises in safe, well-planned, and stress-free
+domestic holidays across India.
